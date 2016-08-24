@@ -2,7 +2,7 @@
 
 ## Project page template
 
-[Repository](https://github.com/biveeco/project-page-template.git)
+[Repository](https://github.com/biveeco/project-page-template)
 
 ## Proposal Templates
 

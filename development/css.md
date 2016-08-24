@@ -49,6 +49,10 @@ The ideas behind OOCSS/SMACSS/BEM systems are great: modular, reusable CSS patte
 - Approach layout components as self-contained "modules" and give each a separate file. Include in a master file (app.scss or main.scss).
 - Keep everything as dry, dynamic and automated as possible. If you have a helper mixin you use in more than one project, spin it off into a Bower module. Generate your color schemes with loops, maps, and mixins. Separate "concerns" as much as possible (handle type, color, etc. separately).
 
+## Our CSS boilerplate
+
+[Repository](https://github.com/biveeco/css-framework)
+
 ## Further reading
 
 - Hugo Giraudel's [Sass Guidelines](http://sass-guidelin.es) are the final word on Sass-specific conventions and are as comprehensive as you can get.
