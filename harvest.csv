@@ -1,30 +1,30 @@
 Task Name, Description
 Project Administration, "Anything to do with contracting for projects, legal, invoicing, etc. (not directly related to deliverables)"
 Project Management, "Client management tasks, managing scope of work"
-Project Task, Etc. for tasks that don't fall anywhere else
-Design - Illustration, Graphic illustration tasks
-Design - Indesign, Working in Indesign, primarily for print projects
-Design - Mockups, Visual mockup design for projects
-Design - Session / Workshop, Design sessions or sprints with clients
-Design - UX / UI, Developing the look and feel of a project/product
-Design - Wireframes / Invision, Content structuring for a project
-Meeting - Client, Meeting with client
-Strategy - Deliverable Creation, Developing the content of a deliverable explicitly outlined in a proposal or contract (e.g., a style guide)
-Strategy - Facilitation, Engagement sessions with clients (workshops, group facilitation exercises, etc.)
-Strategy - Facilitation (Design), Designing strategy for and content of a facilitation session
-Strategy - Interview / Focus Group, Conducting interviews and focus groups
-Strategy - Research, Performing research, landscape analysis, document reviews
-Sysytems - Content Entry, Uploading data, documentation, or information to a system
-Systems - Development (Backend), Backend development activities
-Systems - Development (Frontend), Frontend development activities
-Systems - Documentation, Documenting instructions for use on local computer, screencasts
-Systems - Security, Managing OIS requirements and contact
-Systems - Server, Setting up and managing servers
-Systems - Strategy, Creating a plan around development/implementation
-Internal - Accounting, IRS-related things
-Internal - Administration, Responding to emails, project progress reporting, Asana task management
-Internal - Business Development, Pursuing project/partnership/business opportunities, pipeline opportunities searches
-Internal - Meeting (Management), Jay/Scott/Nico meeting
-Internal - Meeting (Team), Entire Bivee team meeting
-Internal - Research, Research to develop projects in the pipeline or around internal items such as healthcare, software options, etc.
-Internal - Rundown, Weekly project rundown meeting
+Project Task, "Etc. for tasks that don't fall anywhere else"
+Design - Illustration, "Graphic illustration tasks"
+Design - Indesign, "Working in Indesign, primarily for print projects"
+Design - Mockups, "Visual mockup design for projects"
+Design - Session / Workshop, "Design sessions or sprints with clients"
+Design - UX / UI, "Developing the look and feel of a project/product"
+Design - Wireframes / Invision, "Content structuring for a project"
+Meeting - Client, "Meeting with client"
+Strategy - Deliverable Creation, "Developing the content of a deliverable explicitly outlined in a proposal or contract (e.g., a style guide)"
+Strategy - Facilitation, "Engagement sessions with clients (workshops, group facilitation exercises, etc.)"
+Strategy - Facilitation (Design), "Designing strategy for and content of a facilitation session"
+Strategy - Interview / Focus Group, "Conducting interviews and focus groups"
+Strategy - Research, "Performing research, landscape analysis, document reviews"
+Sysytems - Content Entry, "Uploading data, documentation, or information to a system"
+Systems - Development (Backend), "Backend development activities"
+Systems - Development (Frontend), "Frontend development activities"
+Systems - Documentation, "Documenting instructions for use on local computer, screencasts"
+Systems - Security, "Managing OIS requirements and contact"
+Systems - Server, "Setting up and managing servers"
+Systems - Strategy, "Creating a plan around development/implementation"
+Internal - Accounting, "IRS-related things"
+Internal - Administration, "Responding to emails, project progress reporting, Asana task management"
+Internal - Business Development, "Pursuing project/partnership/business opportunities, pipeline opportunities searches"
+Internal - Meeting (Management), "Jay/Scott/Nico meeting"
+Internal - Meeting (Team), "Entire Bivee team meeting"
+Internal - Research, "Research to develop projects in the pipeline or around internal items such as healthcare, software options, etc."
+Internal - Rundown, "Weekly project rundown meeting"
