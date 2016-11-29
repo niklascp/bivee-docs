@@ -45,8 +45,8 @@ If you need help check out:  Git [How to guide][2], [Getting started][3] with Gi
 
 A plain-text editor used primarily to convert text to markdown and to remove formatting of text for graphic design projects. It is also helpful for note-taking
 
-Some helpul links: [Mac User guide][6], [Markdown basics][5]*
-*note: in Indesign and on various projects, we use an adjusted version of markdown that can be found in the **Git repo** link???)*
+Some helpul links: [Mac User guide][6], [Markdown basics][5][^1]
+[^1]: In Indesign and on various projects, we use an adjusted version of markdown that can be found in the **Git repo** link???)
 [5]:https://ia.net/writer/support/general/markdown-guide
 [6]:https://ia.net/writer/support/mac
 
