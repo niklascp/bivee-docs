@@ -1,4 +1,4 @@
-# Work apps & Tool    s 
+# Work apps & Tools
 
 As a company of mainly remote workers, we use a variety of communication tools & platforms to manage our workflow, stay in touch, and provide support. Our tools basically work on a scale from "most immediate" to "most permanent." The "most immediate" tools are the quickest but also the most temporary in terms of saving content. The "most permanent" tools require more setup (ie, provision a repository or format a document) but they can be saved forever and easily referenced later. Here's the major ones with their best uses
 
