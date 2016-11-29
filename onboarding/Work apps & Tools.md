@@ -36,20 +36,17 @@ Used for the same purpose as Github with the difference that Bitbucket stores al
 
 To access: Create an account and ask Scott, Arsham or Jay for access credentials 
 
-Git [How to guide][2]
+If you need help check out:  Git [How to guide][2], [Getting started][3] with Git, Git [Tutorial][4]
 [2]:https://help.github.com/categories/bootcamp/
-[Getting started][3] with Git
 [3]:https://git-scm.com/book/en/v1/Getting-Started
-Git [Tutorial][4]
 [4]:https://try.github.io/levels/1/challenges/1
 
 * iA Writer
 
 A plain-text editor used primarily to convert text to markdown and to remove formatting of text for graphic design projects. It is also helpful for note-taking
 
-[Markdown basics][5]- note: in Indesign and on various projects, we use an adjusted version of markdown that can be found in the **Git repo** link???)
+Some helpul links: [Mac User guide][6], [Markdown basics][5]- note: in Indesign and on various projects, we use an adjusted version of markdown that can be found in the **Git repo** link???)*
 [5]:https://ia.net/writer/support/general/markdown-guide
-[Mac User guide][6]
 [6]:https://ia.net/writer/support/mac
 
 To access: Download iA Writer from the App Store
