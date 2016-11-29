@@ -16,8 +16,50 @@ In Drive you can find: `All files related to Proposal Development - TOR, RFP, Ca
 
 For access: Ask Nico, Scott or Jay
 
-*Dropbox
+* Dropbox
 
 Our database for design and typesetting files. All our `Indesign files, typesetting content, project assets, photos, wireframes, mockups and sketch files` are there. They can be easily referenced/shared on any other channel (e.g., through a link shared on Slack). 
 
 For access: Ask Nico, Scott or Jay
+
+## Coding
+
+* Github
+
+Used for collaborative work on **public** code, heavy files and assets which need to be version-controlledworking. It allows multiple users to edit and work on the same project at once. Can easily be referenced/shared on any other channel (e.g., through a link shared on Slack). 
+
+To access: Create an account and ask Scott, Arsham or Jay for access credentials 
+
+* Bitbucket 
+
+Used for the same purpose as Github with the difference that Bitbucket stores all **private** code, heavy files and assets which contain confidential client information. 
+
+To access: Create an account and ask Scott, Arsham or Jay for access credentials 
+
+Git [How to guide][2]
+[2]:https://help.github.com/categories/bootcamp/
+[Getting started][3] with Git
+[3]:https://git-scm.com/book/en/v1/Getting-Started
+Git [Tutorial][4]
+[4]:https://try.github.io/levels/1/challenges/1
+
+* iA Writer
+
+A plain-text editor used primarily to convert text to markdown and to remove formatting of text for graphic design projects. It is also helpful for note-taking
+
+[Markdown basics][5]- note: in Indesign and on various projects, we use an adjusted version of markdown that can be found in the **Git repo** link???)
+[5]:https://ia.net/writer/support/general/markdown-guide
+[Mac User guide][6]
+[6]:https://ia.net/writer/support/mac
+
+To access: Download iA Writer from the App Store
+
+* Sublime Text - Code editor.
+
+Used for editing code. 
+
+[How to guide][7]
+[7]:https://scotch.io/bar-talk/the-complete-visual-guide-to-sublime-text-3-getting-started-and-keyboard-shortcuts
+
+To access: Download Sublime Text 2 (3?) from the App Store
+
