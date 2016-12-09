@@ -50,7 +50,7 @@ Some helpul links: [Mac User guide][6], [Markdown basics][5]
 [5]:https://ia.net/writer/support/general/markdown-guide
 [6]:https://ia.net/writer/support/mac
 
-To access: Download iA Writer from the App Store
+_To access_: Download iA Writer from the App Store
 
 * Sublime Text - Code editor.
 
@@ -76,8 +76,8 @@ _To access_: Talk to Nico, Haley or Jay 
 * Affinity
 
 Used for graphic design (Affinity Designer) and photo editing (Affinity Photo) 
-      * Great for: figure, graphic design; editing images and photos 
-      * [Affinity Designer tutorials][10]
+Great for: figure, graphic design; editing images and photos 
+[Affinity Designer tutorials][10]
 [10]:https://vimeo.com/album/3062024
 
 _To access_ : Purchase from App Store (Talk to Nico or Jay before purchasing) 
@@ -85,15 +85,15 @@ _To access_ : Purchase from App Store (Talk to Nico or Jay before purchasing) 
 * Sketch
 
 Used for graphic design. 
-      * Great for: wireframes; mockups; figure design 
+Great for: wireframes; mockups; figure design 
       
 _To access_: Purchase from App Store (Talk to Jay before purchasing) 
 
 **Photo resources**
 
-- [World Bank Flickr][11][WBG projects only] 
+- [World Bank Flickr][11][WBG projects only]
 [11]:https://www.flickr.com/photos/worldbank/
-- [UN Flickr][12] [WBG projects only] 
+- [UN Flickr][12] [WBG projects only]
 [12]:https://www.flickr.com/photos/un_photo/
 - [Morguefile][13]
 [13]:https://morguefile.com/
