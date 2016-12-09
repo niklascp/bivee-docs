@@ -30,6 +30,6 @@ We don't use email to communicate between each other. Anything you write in an e
 
 	 - Great for: talking to clients, keeping track of deliverables and project assets
 	 
-
+_To set up Bivee e-mail_: Talk to Nico
 
 
