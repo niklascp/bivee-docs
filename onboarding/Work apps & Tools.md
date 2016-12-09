@@ -75,16 +75,16 @@ Indesign basics [8] 
 * Affinity
 
 Used for graphic design (Affinity Designer) and photo editing (Affinity Photo) 
-    * Great for: figure, graphic design; editing images and photos 
-    * Affinity Designer tutorials  [9]
+◦	Great for: figure, graphic design; editing images and photos 
+◦	Affinity Designer tutorials  [9]
 [9]:https://vimeo.com/album/3062024
-    * To access: Purchase from App Store (Talk to Nico or Jay before purchasing) 
+◦	To access: Purchase from App Store (Talk to Nico or Jay before purchasing) 
     
 * Sketch
 
 Used for graphic design. 
-    * Great for: wireframes; mockups; figure design 
-    * To access: Purchase from App Store (Talk to Jay before purchasing) 
+◦	Great for: wireframes; mockups; figure design 
+◦	To access: Purchase from App Store (Talk to Jay before purchasing) 
 
 **Photo resources**
 
@@ -92,13 +92,13 @@ Used for graphic design. 
 [10]:https://www.flickr.com/photos/worldbank/
     * UN Flickr [11] [WBG projects only] 
 [11]:https://www.flickr.com/photos/un_photo/
-    * Morguefile 
+    * Morguefile  [12]
 
 General helpful links
-	•	Guide to using SVGs [12] 
-	•	WBG Style Guide  [13]
-	•	Object-oriented UX [14]
+	•	Guide to using SVGs [10] 
+	•	WBG Style Guide  [11]
+	•	Object-oriented UX [12]
   
-[12]:http://www.webdesignerdepot.com/2015/01/the-ultimate-guide-to-svg/
-[13]:http://siteresources.worldbank.org/EXTWAT/Resources/wbstyleguide.pdf
-[14]:http://alistapart.com/article/object-oriented-ux
+[10]:http://www.webdesignerdepot.com/2015/01/the-ultimate-guide-to-svg/
+[11]:http://siteresources.worldbank.org/EXTWAT/Resources/wbstyleguide.pdf
+[12]:http://alistapart.com/article/object-oriented-ux
