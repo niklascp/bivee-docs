@@ -88,17 +88,17 @@ Used for graphic design. 
 
 **Photo resources**
 
-    * World Bank Flickr][10][WBG projects only] 
+- World Bank Flickr][10][WBG projects only] 
 [10]:https://www.flickr.com/photos/worldbank/
-    * [UN Flickr] [11] [WBG projects only] 
+- [UN Flickr] [11] [WBG projects only] 
 [11]:https://www.flickr.com/photos/un_photo/
-    * [Morguefile] [12]
+- [Morguefile] [12]
 
 General helpful links
 
-	•	[Guide to using SVGs] [10] 
-	•	[WBG Style Guide]  [11]
-	•	[Object-oriented UX] [12]
+- [Guide to using SVGs] [10] 
+- [WBG Style Guide]  [11]
+- [Object-oriented UX] [12]
   
 [10]:http://www.webdesignerdepot.com/2015/01/the-ultimate-guide-to-svg/
 [11]:http://siteresources.worldbank.org/EXTWAT/Resources/wbstyleguide.pdf
