@@ -8,6 +8,7 @@ As a company of mainly remote workers, we use a variety of communication tools &
 
 We are all used to working in our own little bubble – some of us are complete OCD freaks, and others enjoy working in absolute chaos, but that seems to make sense to you. For all of our sanity, [here][1] is how we like to structure our files, folders and the like to keep things sorted.
 [1]:https://github.com/biveeco/bivee-docs/blob/master/onboarding/naming-conventions.md
+
 * Google Drive
 
 Used for collaborative work on long-form/more complex stuff that we need to store (semi) permanently, as well as a storage for all work related files (word, excel, pdf). Files can easily be referenced/shared on any other channel (e.g., through a link shared on Slack). Sharing settings can be adjusted to allow for partner firm or client collaboration on a document when needed. 
@@ -36,7 +37,11 @@ Used for the same purpose as Github with the difference that Bitbucket stores al
 
 _To access_: Create an account and ask Scott, Arsham or Jay for access credentials 
 
-If you need help check out:  Git [How to guide][2] , [Getting started][3] with Git,  Git [Tutorial][4]
+If you need help check out:  
+
+	- Git [How to guide][2] , 
+	- [Getting started][3] with Git,
+	- Git [Tutorial][4]
 [2]:https://help.github.com/categories/bootcamp/
 [3]:https://git-scm.com/book/en/v1/Getting-Started
 [4]:https://try.github.io/levels/1/challenges/1
@@ -45,7 +50,10 @@ If you need help check out:  Git [How to guide][2] , [Getting started][3] with
 
 A plain-text editor used primarily to convert text to markdown and to remove formatting of text for graphic design projects. It is also helpful for note-taking
 
-Some helpul links: [Mac User guide][6], [Markdown basics][5]
+Some helpul links: 
+
+	- [Mac User guide][6], 
+	- [Markdown basics][5]
 (Note: In Indesign and on various projects, we use an adjusted version of markdown that can be found in the [**Typesetting repo**][17])
 [5]:https://ia.net/writer/support/general/markdown-guide
 [6]:https://ia.net/writer/support/mac
