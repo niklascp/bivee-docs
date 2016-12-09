@@ -46,9 +46,10 @@ If you need help check out:  Git [How to guide][2] , [Getting started][3] with
 A plain-text editor used primarily to convert text to markdown and to remove formatting of text for graphic design projects. It is also helpful for note-taking
 
 Some helpul links: [Mac User guide][6], [Markdown basics][5]
-(Note: In Indesign and on various projects, we use an adjusted version of markdown that can be found in the **Git repo** link???)
+(Note: In Indesign and on various projects, we use an adjusted version of markdown that can be found in the [**Git repo**][17])
 [5]:https://ia.net/writer/support/general/markdown-guide
 [6]:https://ia.net/writer/support/mac
+[17]:https://github.com/biveeprojects/gpfd-typesetting
 
 _To access_: Download iA Writer from the App Store
 
@@ -76,6 +77,7 @@ _To access_: Talk to Nico, Haley or Jay 
 * Affinity
 
 Used for graphic design (Affinity Designer) and photo editing (Affinity Photo) 
+
 Great for: figure, graphic design; editing images and photos 
 [Affinity Designer tutorials][10]
 [10]:https://vimeo.com/album/3062024
@@ -85,6 +87,7 @@ _To access_ : Purchase from App Store (Talk to Nico or Jay before purchasing) 
 * Sketch
 
 Used for graphic design. 
+
 Great for: wireframes; mockups; figure design 
       
 _To access_: Purchase from App Store (Talk to Jay before purchasing) 
