@@ -46,7 +46,7 @@ If you need help check out:  Git [How to guide][2] , [Getting started][3] with
 A plain-text editor used primarily to convert text to markdown and to remove formatting of text for graphic design projects. It is also helpful for note-taking
 
 Some helpul links: [Mac User guide][6], [Markdown basics][5]
-(Note: In Indesign and on various projects, we use an adjusted version of markdown that can be found in the [**Git repo**][17])
+(Note: In Indesign and on various projects, we use an adjusted version of markdown that can be found in the [**Typesetting repo**][17])
 [5]:https://ia.net/writer/support/general/markdown-guide
 [6]:https://ia.net/writer/support/mac
 [17]:https://github.com/biveeprojects/gpfd-typesetting
@@ -66,7 +66,7 @@ _To access_: Download Sublime Text 2 (3?) from the App Store
 
 * [Indesign CC][8]
 
-Used for creating publications (report layouts, EOIs, proposals, etc.) 
+Used for creating publications (report layouts, EOIs, proposals, etc.)
 
 [Indesign basics][9] 
 
@@ -76,30 +76,31 @@ _To access_: Talk to Nico, Haley or Jay 
   
 * Affinity
 
-Used for graphic design (Affinity Designer) and photo editing (Affinity Photo) 
+Used for graphic design (Affinity Designer) and photo editing (Affinity Photo)
 
-Great for: figure, graphic design; editing images and photos 
+Great for: figure, graphic design; editing images and photos
+
 [Affinity Designer tutorials][10]
 [10]:https://vimeo.com/album/3062024
 
-_To access_ : Purchase from App Store (Talk to Nico or Jay before purchasing) 
+_To access_ : Purchase from App Store (Talk to Nico or Jay before purchasing)
     
 * Sketch
 
-Used for graphic design. 
+Used for graphic design.
 
-Great for: wireframes; mockups; figure design 
+Great for: wireframes; mockups; figure design
       
-_To access_: Purchase from App Store (Talk to Jay before purchasing) 
+_To access_: Purchase from App Store (Talk to Jay before purchasing)
 
 **Photo resources**
 
 - [World Bank Flickr][11][WBG projects only]
-[11]:https://www.flickr.com/photos/worldbank/
 - [UN Flickr][12] [WBG projects only]
-[12]:https://www.flickr.com/photos/un_photo/
 - [Morguefile][13]
 [13]:https://morguefile.com/
+[11]:https://www.flickr.com/photos/worldbank/
+[12]:https://www.flickr.com/photos/un_photo/
 
 **General helpful links**
 
