@@ -63,21 +63,22 @@ To access: Download Sublime Text 2 (3?) from the App Store
 
 ## Design
 
-* [Indesign CC] [7]
+* [Indesign CC][8]
 
 Used for creating publications (report layouts, EOIs, proposals, etc.) 
 
-[7]:https://docs.google.com/a/nickingston.com/document/d/1va4Qt4shP7VFrP1-Mcf6f0k1TzaijMweaASb6bF72cM/edit?usp=sharing
-[Indesign basics] [8] 
-[8]:https://helpx.adobe.com/indesign/tutorials.html
-	◦	To access: Talk to Nico, Haley or Jay 
+[Indesign basics][9] 
+
+- To access: Talk to Nico, Haley or Jay 
+[8]:https://docs.google.com/a/nickingston.com/document/d/1va4Qt4shP7VFrP1-Mcf6f0k1TzaijMweaASb6bF72cM/edit?usp=sharing
+[9]:https://helpx.adobe.com/indesign/tutorials.html
   
 * Affinity
 
 Used for graphic design (Affinity Designer) and photo editing (Affinity Photo) 
 - Great for: figure, graphic design; editing images and photos 
-- [Affinity Designer tutorials] [9]
-[9]:https://vimeo.com/album/3062024
+- [Affinity Designer tutorials][10]
+[10]:https://vimeo.com/album/3062024
 ◦	To access: Purchase from App Store (Talk to Nico or Jay before purchasing) 
     
 * Sketch
@@ -88,18 +89,18 @@ Used for graphic design. 
 
 **Photo resources**
 
-- World Bank Flickr][10][WBG projects only] 
-[10]:https://www.flickr.com/photos/worldbank/
-- [UN Flickr] [11] [WBG projects only] 
-[11]:https://www.flickr.com/photos/un_photo/
-- [Morguefile] [12]
+- World Bank Flickr][11][WBG projects only] 
+[11]:https://www.flickr.com/photos/worldbank/
+- [UN Flickr][12] [WBG projects only] 
+[12]:https://www.flickr.com/photos/un_photo/
+- [Morguefile][13]
+[13]:https://morguefile.com/
+**General helpful links**
 
-General helpful links
-
-- [Guide to using SVGs] [10] 
-- [WBG Style Guide]  [11]
-- [Object-oriented UX] [12]
+- [Guide to using SVGs][14] 
+- [WBG Style Guide][15]
+- [Object-oriented UX][16]
   
-[10]:http://www.webdesignerdepot.com/2015/01/the-ultimate-guide-to-svg/
-[11]:http://siteresources.worldbank.org/EXTWAT/Resources/wbstyleguide.pdf
-[12]:http://alistapart.com/article/object-oriented-ux
+[14]:http://www.webdesignerdepot.com/2015/01/the-ultimate-guide-to-svg/
+[15]:http://siteresources.worldbank.org/EXTWAT/Resources/wbstyleguide.pdf
+[16]:http://alistapart.com/article/object-oriented-ux
