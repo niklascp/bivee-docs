@@ -61,3 +61,44 @@ Used for editing code.
 
 To access: Download Sublime Text 2 (3?) from the App Store
 
+## Design
+
+* Indesign CC [7]
+
+Used for creating publications (report layouts, EOIs, proposals, etc.) 
+
+[7]:https://docs.google.com/a/nickingston.com/document/d/1va4Qt4shP7VFrP1-Mcf6f0k1TzaijMweaASb6bF72cM/edit?usp=sharing
+Indesign basics [8] 
+[8]:https://helpx.adobe.com/indesign/tutorials.html
+	◦	To access: Talk to Nico, Haley or Jay 
+  
+* Affinity
+
+Used for graphic design (Affinity Designer) and photo editing (Affinity Photo) 
+    * Great for: figure, graphic design; editing images and photos 
+    * Affinity Designer tutorials  [9]
+[9]:https://vimeo.com/album/3062024
+    * To access: Purchase from App Store (Talk to Nico or Jay before purchasing) 
+    
+* Sketch
+
+Used for graphic design. 
+    * Great for: wireframes; mockups; figure design 
+    * To access: Purchase from App Store (Talk to Jay before purchasing) 
+
+**Photo resources**
+
+    * World Bank Flickr[10][WBG projects only] 
+[10]:https://www.flickr.com/photos/worldbank/
+    * UN Flickr [11] [WBG projects only] 
+[11]:https://www.flickr.com/photos/un_photo/
+    * Morguefile 
+
+General helpful links
+	•	Guide to using SVGs [12] 
+	•	WBG Style Guide  [13]
+	•	Object-oriented UX [14]
+  
+[12]:http://www.webdesignerdepot.com/2015/01/the-ultimate-guide-to-svg/
+[13]:http://siteresources.worldbank.org/EXTWAT/Resources/wbstyleguide.pdf
+[14]:http://alistapart.com/article/object-oriented-ux
