@@ -22,7 +22,7 @@ There are some constants to help us sort and order items in our naming.
 
 Nothing is ever final! There will always be revisions to all work, even when we think it is finished, so do not add the word Final to any file name. Instead, add the following to the end of the filename to indicate the revision number:
 
-**-rev-0.1**
+**-rev-0.1.0**
 
 #### Version numbering for design files
 
