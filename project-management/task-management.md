@@ -20,4 +20,4 @@ For example, a task to fix an issue on a project called Handshake would read as:
 
 **Handshake - Homepage - Design** 
 
-Where *Handshake* is the identifier, *IE* is the reference as to what needs to be looked at, and *Fix Bugs* is the action that needs to be taken.
+Where **Handshake** is the identifier, **Homepage** is the reference as to what needs to be looked at, and **Design** is the action that needs to be taken.
